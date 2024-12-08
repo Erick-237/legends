@@ -1,0 +1,18 @@
+[
+null,
+{"id":1,"expanded":false,"name":"Armeria","order":2,"parentId":2,"scrollX":811,"scrollY":449.5,"quick":false},
+{"id":2,"expanded":true,"name":"Pueblo principal","order":1,"parentId":0,"scrollX":811,"scrollY":449.5,"quick":false},
+{"id":3,"expanded":false,"name":"Armaduras","order":3,"parentId":2,"scrollX":811,"scrollY":449.5,"quick":false},
+{"id":4,"expanded":false,"name":"Taberna","order":4,"parentId":2,"scrollX":506.54545454545456,"scrollY":265.8181818181818,"quick":false},
+{"id":5,"expanded":true,"name":"Posada","order":5,"parentId":2,"scrollX":589.8181818181819,"scrollY":326.90909090909093,"quick":false},
+{"id":6,"expanded":false,"name":"Casa abandonada","order":9,"parentId":2,"scrollX":589.8181818181819,"scrollY":326.90909090909093,"quick":false},
+{"id":7,"expanded":false,"name":"Habitacion1","order":7,"parentId":5,"scrollX":811,"scrollY":449.5,"quick":false},
+{"id":8,"expanded":false,"name":"Calabozo","order":10,"parentId":6,"scrollX":816,"scrollY":624,"quick":false},
+{"id":9,"expanded":true,"name":"Habitacion2","order":8,"parentId":5,"scrollX":357.45454545454544,"scrollY":220,"quick":false},
+{"id":10,"expanded":false,"name":"Habitacion3","order":6,"parentId":5,"scrollX":357.45454545454544,"scrollY":214.1818181818182,"quick":false},
+{"id":11,"expanded":false,"name":"Casa alargada","order":11,"parentId":2,"scrollX":811,"scrollY":457.5,"quick":false},
+{"id":12,"expanded":false,"name":"Casa azul","order":12,"parentId":2,"scrollX":811,"scrollY":449.5,"quick":false},
+{"id":13,"expanded":false,"name":"Casa amarilla, chispas","order":13,"parentId":2,"scrollX":811,"scrollY":449.5,"quick":false},
+{"id":14,"expanded":false,"name":"Casa amarilla, madera","order":14,"parentId":2,"scrollX":811,"scrollY":449.5,"quick":false},
+{"id":15,"expanded":false,"name":"Casa beige, chispas","order":15,"parentId":2,"scrollX":811,"scrollY":449.5,"quick":false}
+]
